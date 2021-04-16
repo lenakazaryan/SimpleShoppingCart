@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.close{
+    margin-left: 150px;
+    font-size: 30px;
+    color: grey;
+}
+
+.your-cart{
+    font-size: 20px;
+}
